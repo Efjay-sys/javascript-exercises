@@ -9,9 +9,20 @@
 
 // Add your code right below, good luck!
 
+let firstName = "Carlos" ;
+let lastName ;
+let thisYear ;
+let birthYear ;
+let Greeting ; 
 
+firstName = "Carlos";
+lastName = "Stevenson";
+thisYear = "1965";
+birthYear = "1947";
+fullName = "Carlos" + "Stevenson"
+greeting = "Hello! My name is " + fullName
 
-
+const values = greeting + lastName;
 
 // Do not change this
 module.exports = {
